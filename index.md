@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Test
+title: Test 2
 permalink: /
 
 ---
